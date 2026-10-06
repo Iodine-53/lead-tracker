@@ -1,5 +1,7 @@
 # Lead Tracker
 
+**Live demo:** https://checkma8t-leads.vercel.app
+
 A kanban-style lead status board that stays in sync with Airtable. Day 3 of a 30-day build-in-public series on automating small-business busywork.
 
 New leads land in the **New** column — click them along to **Alerted** then **Contacted**. A stats row shows total leads, per-status counts, and contacted rate at a glance. No more leads rotting in a spreadsheet tab nobody opens.
